@@ -129,4 +129,5 @@ void menu(){
 int main(void){
     Fvazia();
     menu();
+    apagar();
 }
